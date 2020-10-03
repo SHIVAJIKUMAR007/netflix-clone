@@ -1,4 +1,4 @@
-const API_KEY = "abfa9f67f148b55780a6395ab8ce9aca";
+const API_KEY = process.env.REACT_APP_API_KEY;
 
 const movies = {
   trending: `/trending/all/week?api_key=${API_KEY}&language=en-US`,

@@ -12,7 +12,6 @@ function Banner() {
       const data2 = await data.data.results;
       let index = Math.floor(Math.random() * 20);
       setBanner(data2[index]);
-      console.log(data2[index]);
     };
     fetch();
   }, []);
