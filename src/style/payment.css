@@ -1,0 +1,16 @@
+#cartItem {
+  width: 90vw;
+  margin: auto !important;
+}
+
+#details_of_cart {
+  width: 25vw;
+  min-width: 360px;
+  margin: auto !important;
+}
+
+#orderForm {
+  width: 30vw;
+  min-width: 360px;
+  margin: auto !important;
+}

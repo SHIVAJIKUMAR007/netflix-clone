@@ -1,0 +1,27 @@
+.products {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.card {
+  margin: 1.5rem 0;
+  box-shadow: 0 0 2rem 0.2rem rgb(114, 100, 100);
+}
+.anchorTag {
+  color: black !important;
+  text-decoration: none;
+}
+.anchorTag:hover {
+  text-decoration: none;
+  color: orange !important;
+}
+.btn {
+  background-color: orange !important;
+  color: aliceblue !important;
+}
+
+.ProductImage {
+  width: 60% !important;
+}

@@ -1,0 +1,10 @@
+#proImage {
+  max-width: 20rem;
+}
+
+.CartItem {
+  width: 65vw;
+  /* border-radius: 2rem; */
+  margin-top: 1rem;
+  border-bottom: 1px dotted #000000;
+}

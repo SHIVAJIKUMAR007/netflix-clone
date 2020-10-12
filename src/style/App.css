@@ -1,0 +1,23 @@
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.appBody {
+  height: 100vh;
+  width: 100vw;
+  display: grid;
+  grid-template-rows: 6.5rem 1fr 2rem;
+  font-size: 1rem;
+}
+.App-header {
+  margin: 0;
+  height: 0;
+  padding: 0;
+  z-index: 990;
+  background-attachment: fixed;
+}
+
+main {
+  margin: 0 6rem;
+}
