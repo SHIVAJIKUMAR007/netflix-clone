@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/netflix-clone/static/css/main.6d2d3c8b.chunk.css",
-    "main.js": "/netflix-clone/static/js/main.cc6f8a2f.chunk.js",
-    "main.js.map": "/netflix-clone/static/js/main.cc6f8a2f.chunk.js.map",
-    "runtime-main.js": "/netflix-clone/static/js/runtime-main.e3498f4d.js",
-    "runtime-main.js.map": "/netflix-clone/static/js/runtime-main.e3498f4d.js.map",
-    "static/js/2.f84410da.chunk.js": "/netflix-clone/static/js/2.f84410da.chunk.js",
-    "static/js/2.f84410da.chunk.js.map": "/netflix-clone/static/js/2.f84410da.chunk.js.map",
-    "index.html": "/netflix-clone/index.html",
-    "precache-manifest.1cc657960459f4778998033a5e6d039f.js": "/netflix-clone/precache-manifest.1cc657960459f4778998033a5e6d039f.js",
-    "service-worker.js": "/netflix-clone/service-worker.js",
-    "static/css/main.6d2d3c8b.chunk.css.map": "/netflix-clone/static/css/main.6d2d3c8b.chunk.css.map",
-    "static/js/2.f84410da.chunk.js.LICENSE.txt": "/netflix-clone/static/js/2.f84410da.chunk.js.LICENSE.txt",
-    "static/media/user.png": "/netflix-clone/static/media/user.991f9ef8.png"
+    "main.css": "/amazon-clone-frontend/static/css/main.485970a5.chunk.css",
+    "main.js": "/amazon-clone-frontend/static/js/main.2571e49b.chunk.js",
+    "main.js.map": "/amazon-clone-frontend/static/js/main.2571e49b.chunk.js.map",
+    "runtime-main.js": "/amazon-clone-frontend/static/js/runtime-main.bd37e91c.js",
+    "runtime-main.js.map": "/amazon-clone-frontend/static/js/runtime-main.bd37e91c.js.map",
+    "static/css/2.11829350.chunk.css": "/amazon-clone-frontend/static/css/2.11829350.chunk.css",
+    "static/js/2.204a247c.chunk.js": "/amazon-clone-frontend/static/js/2.204a247c.chunk.js",
+    "static/js/2.204a247c.chunk.js.map": "/amazon-clone-frontend/static/js/2.204a247c.chunk.js.map",
+    "index.html": "/amazon-clone-frontend/index.html",
+    "precache-manifest.62a6a44bc012b6ecb072a2081f796060.js": "/amazon-clone-frontend/precache-manifest.62a6a44bc012b6ecb072a2081f796060.js",
+    "service-worker.js": "/amazon-clone-frontend/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/amazon-clone-frontend/static/css/2.11829350.chunk.css.map",
+    "static/css/main.485970a5.chunk.css.map": "/amazon-clone-frontend/static/css/main.485970a5.chunk.css.map",
+    "static/js/2.204a247c.chunk.js.LICENSE.txt": "/amazon-clone-frontend/static/js/2.204a247c.chunk.js.LICENSE.txt",
+    "static/media/banner.png": "/amazon-clone-frontend/static/media/banner.e5fa82f9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e3498f4d.js",
-    "static/js/2.f84410da.chunk.js",
-    "static/css/main.6d2d3c8b.chunk.css",
-    "static/js/main.cc6f8a2f.chunk.js"
+    "static/js/runtime-main.bd37e91c.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.204a247c.chunk.js",
+    "static/css/main.485970a5.chunk.css",
+    "static/js/main.2571e49b.chunk.js"
   ]
 }
